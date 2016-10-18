@@ -1,2 +1,2 @@
 # Kriptografi2016-2017
-it's created for submitting my assigment
+it's created for submitting assigment
