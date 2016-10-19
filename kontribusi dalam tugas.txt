@@ -1,0 +1,5 @@
+Nama : Arya Kresna W
+NIM  : 14/364160/PA/15921
+
+Kontribusi:
+- mengkodekan DES dalam bahasa C++ 
